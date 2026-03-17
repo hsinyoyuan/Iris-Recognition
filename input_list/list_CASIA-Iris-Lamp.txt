@@ -1,0 +1,2 @@
+dataset/CASIA-Iris-Lamp/001/L/S2001L06.jpg, dataset/CASIA-Iris-Lamp/001/L/S2001L20.jpg
+dataset/CASIA-Iris-Lamp/001/L/S2001L07.jpg, dataset/CASIA-Iris-Lamp/001/L/S2001L12.jpg

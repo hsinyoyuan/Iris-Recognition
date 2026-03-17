@@ -1,0 +1,2 @@
+dataset/CASIA-Iris-Thousand/000/L/S5000L03.jpg, dataset/CASIA-Iris-Thousand/000/L/S5000L06.jpg
+dataset/CASIA-Iris-Thousand/000/L/S5000L00.jpg, dataset/CASIA-Iris-Thousand/000/L/S5000L09.jpg

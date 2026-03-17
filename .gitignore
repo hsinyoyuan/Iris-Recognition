@@ -1,0 +1,21 @@
+# Ignore all dataset files
+dataset/**/*
+!dataset/**/
+
+# Allow specific toy examples
+!dataset/CASIA-Iris-Lamp/001/L/S2001L06.jpg
+!dataset/CASIA-Iris-Lamp/001/L/S2001L20.jpg
+!dataset/CASIA-Iris-Lamp/001/L/S2001L07.jpg
+!dataset/CASIA-Iris-Lamp/001/L/S2001L12.jpg
+
+!dataset/CASIA-Iris-Thousand/000/L/S5000L03.jpg
+!dataset/CASIA-Iris-Thousand/000/L/S5000L06.jpg
+!dataset/CASIA-Iris-Thousand/000/L/S5000L00.jpg
+!dataset/CASIA-Iris-Thousand/000/L/S5000L09.jpg
+
+!dataset/Ganzin-J7EF-Gaze/001/L/view_3_1.png
+!dataset/Ganzin-J7EF-Gaze/001/L/view_3_9.png
+!dataset/Ganzin-J7EF-Gaze/001/L/view_3_2.png
+
+# Python cache
+__pycache__/
