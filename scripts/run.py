@@ -30,8 +30,6 @@ def main():
     parts = name_no_ext.split("-")
     dataset_name = parts[-1]
 
-    processor = IrisProcessor(dataset_name)
-
     with open(args.input, 'r') as in_file, open(args.output, 'w') as out_file:
         lines = [line.strip() for line in in_file if line.strip()]
     
